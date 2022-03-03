@@ -9,7 +9,7 @@ namespace ivt_template
             /*
              * ¡Hey! Recuerda que esto no se toca, escribe tu código en el archivo llamado WorkHere.cs
              */
-            new WorkHere().Main();
+            new WorkHere().Main(args);
         }
     }
 }
